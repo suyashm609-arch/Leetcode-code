@@ -8,10 +8,10 @@ class Solution {
             ans=Math.max(ans,area);
             if(height[left]<height[right]){
                 left++;
-            }else{
+            }else {
                 right--;
             }
-                    }
-                    return ans;
+              }
+          return ans;
     }
 }
