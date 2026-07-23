@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1688-count-of-matches-in-tournament) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
