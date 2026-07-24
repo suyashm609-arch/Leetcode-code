@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0011-container-with-most-water) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
