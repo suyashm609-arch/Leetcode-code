@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2469-convert-the-temperature) |
+| [3536-maximum-product-of-two-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
 ## Geometry
 |  |
 | ------- |
