@@ -4,10 +4,6 @@ class Solution {
      int n=nums.length;
      int op1= nums[n-1]*nums[n-2]*nums[n-3];
      int op2=nums[0]*nums[1]*nums[n-1];
-      if(op1>op2){
-        return op1;  
-      }else{
-      return op2;
-      }
+     return Math.max(op1,op2);
     }
 }
