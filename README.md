@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
