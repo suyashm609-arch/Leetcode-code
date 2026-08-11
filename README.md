@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3731-find-missing-elements) |
 ## Geometry
