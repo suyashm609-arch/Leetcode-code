@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
