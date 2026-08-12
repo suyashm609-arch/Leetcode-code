@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3110-score-of-a-string) |
+| [3941-password-strength](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
