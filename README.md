@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
