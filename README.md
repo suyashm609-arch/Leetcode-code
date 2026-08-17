@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
