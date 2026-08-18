@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1108-defanging-an-ip-address) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 ## Quicksort
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
