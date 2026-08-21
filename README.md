@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -199,8 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
