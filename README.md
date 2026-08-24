@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3941-password-strength) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
 | ------- |
