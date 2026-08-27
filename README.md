@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0492-construct-the-rectangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0728-self-dividing-numbers) |
