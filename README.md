@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2652-sum-multiples) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
@@ -263,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
