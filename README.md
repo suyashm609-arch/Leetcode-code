@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0461-hamming-distance) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
