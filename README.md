@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1470-shuffle-the-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
