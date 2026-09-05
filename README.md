@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
+| [1154-day-of-the-year](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
