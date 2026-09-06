@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0136-single-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0135-candy) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
