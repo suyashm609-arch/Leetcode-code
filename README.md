@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
