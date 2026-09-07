@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
