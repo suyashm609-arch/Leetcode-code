@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1108-defanging-an-ip-address) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1248-count-number-of-nice-subarrays) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
