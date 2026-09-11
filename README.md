@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
