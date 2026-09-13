@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0647-palindromic-substrings) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1872-stone-game-viii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1872-stone-game-viii) |
 ## String Matching
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Nim Game
 |  |
