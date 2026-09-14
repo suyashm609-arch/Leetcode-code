@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1154-day-of-the-year) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0836-rectangle-overlap) |
 ## Counting
 |  |
 | ------- |
