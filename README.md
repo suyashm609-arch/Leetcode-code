@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3110-score-of-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1872-stone-game-viii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
 |  |
 | ------- |
