@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3718-smallest-missing-multiple-of-k) |
