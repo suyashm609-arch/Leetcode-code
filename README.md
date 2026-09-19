@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0142-linked-list-cycle-ii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
