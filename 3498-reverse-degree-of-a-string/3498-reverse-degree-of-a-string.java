@@ -2,8 +2,7 @@ class Solution {
     public int reverseDegree(String s) {
         int a=0;
         for(int i=0;i<s.length();i++){
-            int r=26-(s.charAt(i)-'a');
-            a+=(i+1)*r;
+           a+=('z'-s.charAt(i)+1)*(i+1);
         }
         return a;
     }
