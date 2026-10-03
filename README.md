@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0744-find-smallest-letter-greater-than-target) |
