@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1306-jump-game-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0301-remove-invalid-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
