@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0835-image-overlap) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
