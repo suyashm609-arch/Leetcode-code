@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2951-find-the-peaks) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3536-maximum-product-of-two-digits) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
