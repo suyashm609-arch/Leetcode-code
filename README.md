@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0279-perfect-squares) |
