@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2951-find-the-peaks](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
