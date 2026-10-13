@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0441-arranging-coins) |
