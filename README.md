@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0647-palindromic-substrings) |
