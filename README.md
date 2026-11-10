@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
 | ------- |
