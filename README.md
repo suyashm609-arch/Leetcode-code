@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0032-longest-valid-parentheses) |
