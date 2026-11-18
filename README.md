@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
 ## Bubble Sort
 |  |
