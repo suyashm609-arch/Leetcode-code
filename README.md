@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/suyashm609-arch/Leetcode-code/tree/master/2390-removing-stars-from-a-string) |
