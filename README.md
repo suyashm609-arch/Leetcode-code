@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0908-smallest-range-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1004-max-consecutive-ones-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0537-complex-number-multiplication) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1929-concatenation-of-array) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0905-sort-array-by-parity) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suyashm609-arch/Leetcode-code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -743,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suyashm609-arch/Leetcode-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/suyashm609-arch/Leetcode-code/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
